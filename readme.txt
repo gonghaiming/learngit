@@ -4,3 +4,4 @@ Git has a mutable index called stage
 include 1
 include 2
 include3
+oh o know how to use this word
